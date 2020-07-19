@@ -1,7 +1,7 @@
 # Price-H16
 
-Game Developer From H16 AKA Hangar-16, living in California, USA.
-5 years as Developer in H-16 
+- Game Developer From H16 AKA Hangar-16, living in California, USA.
+- 5 years as Developer in H-16 
 
 ## Social:
 [![](https://img.shields.io/badge/%40Price--H16-181717?style=flat-square&logo=github)](https://github.com/price-h16)
