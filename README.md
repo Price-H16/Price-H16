@@ -1,16 +1,14 @@
-### Hi there 👋
+# Price-H16
 
-<!--
-**Price-H16/Price-H16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Social:
+[![](https://img.shields.io/badge/%40Price--H16-181717?style=flat-square&logo=github)](https://github.com/price-h16)
+[![](https://img.shields.io/badge/-Price%230016-%232c2f33?style=flat-square&logo=discord)]()
 
-Here are some ideas to get you started:
+## Languages:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+
+### NosEngine - Project Master
+
+![Haany's github stats Thank you Blowa](https://github-readme-stats.vercel.app/api?username=Price-H16&show_icons=true&hide=[%22issues%22])
