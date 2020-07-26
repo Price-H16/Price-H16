@@ -2,6 +2,7 @@
 
 - Game Developer From H16 AKA Hangar-16, living in California, USA.
 - 5 years as Developer in H16.
+- 2 years as IT-Tech.
 - Now work in free time on NosEngine and try to learn new things.
 
 ## Social:
