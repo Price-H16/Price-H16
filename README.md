@@ -16,6 +16,8 @@
 
 ### NosEngine - Project Master
 
-### NosSalty - Project Creator (nothing with saltyemu or WingsEmu)
+### NosSalty - Project Creator (nothing with saltyemu or WingsEmu) PPS:Better version of NosEngine mostly hardcoded but why not :D
+
+### NosSaltyV2 - Project that uses SaltyEmu base (only for fun and learning purpose nothing special)
 
 ![Haany's github stats Thank you Blowa](https://github-readme-stats.vercel.app/api?username=Price-H16&show_icons=true&hide=[%22issues%22])
