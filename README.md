@@ -3,7 +3,7 @@
 - Game Developer From H16 AKA Hangar-16, living in California, USA.
 - 5 years as Developer in H16.
 - 2 years as IT-Tech.
-- Now work in free time on NosSalty and try to learn new things.
+- Now work in free time on NosShock and try to learn new things.
 
 ## Social:
 [![](https://img.shields.io/badge/%40Price--H16-181717?style=flat-square&logo=github)](https://github.com/price-h16)
@@ -16,7 +16,7 @@
 
 ### NosEngine - Project Master
 
-### NosSalty - Project Creator (nothing with saltyemu or WingsEmu) PPS:Better version of NosEngine mostly hardcoded but why not :D
+### NosShock - Project Creator (nothing with saltyemu or WingsEmu) PPS:Better version of NosEngine mostly hardcoded but why not :D
 
 ### NosSaltyV2 - Project that uses SaltyEmu base (only for fun and learning purpose nothing special)
 
